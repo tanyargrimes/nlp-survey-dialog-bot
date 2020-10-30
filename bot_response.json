@@ -1,0 +1,10 @@
+{
+    "star1": ":(   We seem to be severely failing your expectations in this area.",
+    "star2": ":(   We seem to be failing your expectations in this area.",
+	"star3": ":|   We seem to be barely meeting your expectations in this area.",
+	"star4": ":)   We seem to be meeting your expectations in this area.",
+	"star5": ":)   We seem to be exceeding your expectations in this area.",
+	"overall1": "Overall, you had more of a negative experience. We will make a serious effort to address your concerns.",
+	"overall2": "Overall, you had more of a neutral experience. We will strive to improve to serve you better.",
+	"overall3": "Overall, you had more of a positive experience. We will continue to improve for you."
+}
